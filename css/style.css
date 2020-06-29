@@ -1,18 +1,31 @@
 body{
-    background-color: deepskyblue !important;
+    background-color: f5deb3 !important;
+
 }
 .navigation{
-    height: 6em !important;
+    height: 8em !important;
+}
+.container-fluid{
+    background-color: #f5deb3;
 }
 .nav-link{
     color: black;
 }
 .home{
+    height: 40em;
 }
 .nav-item:hover{
-    border-radius: 50%;
     font-size: 2em;
+    color: black !important;
 }
 .myImage{
     width: 11em !important;
+}
+.nav-link a i{
+    width: 3em !important;
+    color: black !important;
+}
+.footer{
+    bottom: 0;
+    padding-bottom: 2em;
 }
