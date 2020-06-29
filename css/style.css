@@ -1,0 +1,18 @@
+body{
+    background-color: deepskyblue !important;
+}
+.navigation{
+    height: 6em !important;
+}
+.nav-link{
+    color: black;
+}
+.home{
+}
+.nav-item:hover{
+    border-radius: 50%;
+    font-size: 2em;
+}
+.myImage{
+    width: 11em !important;
+}
